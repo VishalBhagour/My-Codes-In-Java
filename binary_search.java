@@ -27,7 +27,7 @@ public class binary_search {
             // If target is smaller, ignore right half
             else {
                 right = mid - 1;
-            }
+            }  
         }
         
         // Print result
